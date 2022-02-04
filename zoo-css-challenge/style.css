@@ -109,10 +109,6 @@ footer {
   border: 5px solid #747c92;
 }
 
-.image-container img:first-of-type {
-  vertical-align: bottom;
-}
-
 .tigers {
   background-color: #0b3c49;
   color: #f0e100;
@@ -206,3 +202,7 @@ footer {
 p,li {
   line-height: 1.5em;
 }
+
+.bears .bear1 {border-color: red;}
+.bears .bear2 {border-color: green;}
+.bears .bear3 {border-color: blue;}
