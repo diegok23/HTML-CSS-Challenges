@@ -76,6 +76,7 @@ footer {
 }
 
 .introduction {
+  background-color: white;
 }
 
 #badge {
@@ -192,4 +193,16 @@ footer {
 
 .programs .card {
   display: block;
+}
+
+
+  /*MY CHANGES*/
+
+  /*Logo*/
+#logo{
+  border: none;
+}
+  /*line height*/
+p,li {
+  line-height: 1.5em;
 }
