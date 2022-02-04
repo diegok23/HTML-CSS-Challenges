@@ -198,6 +198,12 @@ footer {
   color: #ff3f00;
 }
 
+.membership p {
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .membership strong {
   color: #ff7f11;
 }
