@@ -130,6 +130,32 @@ footer {
   font-size: 1.2em;
 }
 
+.penguins {
+  background-color: black;
+  color: #fff;
+  line-height: 1.5em;
+}
+
+.penguins h1 {
+  color: #bbb;
+}
+
+.penguins h2 {
+  color: #BEEE62;
+}
+
+ol.penguintable {
+  font-size: larger;
+}
+
+.penguins img {
+  border: none;
+  width: 200px;
+  margin: 15px;
+  margin-right: 50px;
+  float: left;
+}
+
 .news h2{
   text-align: center;
 }
